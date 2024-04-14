@@ -1,4 +1,4 @@
-#include<stdio.h>
+#include<>
 int main(){
     // Creating Pointers
 // You learned from the previous topic, that we can get the memory address of a variable with the reference operator &

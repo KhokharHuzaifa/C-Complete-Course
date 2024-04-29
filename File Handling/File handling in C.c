@@ -1,4 +1,4 @@
-#incl<stdio.h>
+#inclu<stdio.h>
 int main(){
     // In C, you can create, open, read, and write to files by declaring a pointer of type FILE, and use the fopen() function
     

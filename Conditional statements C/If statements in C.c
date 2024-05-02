@@ -1,4 +1,4 @@
-#include<sth>
+#include<stdh>
 int main(){
     // Use "if" to specify a block of code to be executed, if a specified condition is true
     // Syntax :

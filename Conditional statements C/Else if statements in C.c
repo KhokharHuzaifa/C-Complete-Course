@@ -1,5 +1,5 @@
 Hu#include<stdio.h>
-intn(){
+int n(){
     // The else if Statement
     // Use the else if statement to specify a new condition if the first condition is false.
 

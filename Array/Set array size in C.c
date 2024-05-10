@@ -2,7 +2,7 @@
 int main(){
     // Set Array 
     // Another common way to create arrays, is to specify the size of the array, and add elements later:
-    // Example S
+    // Example Si
     // Declare an array of four integers:
     int myNumbers[4];
     // Add elements

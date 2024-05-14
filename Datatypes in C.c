@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<conio.h>
 int main(){
-// Create All variabl
+// Create All variable
 int myNum = 5;             // Integer (whole number)
 float myFloatNum = 5.99;   // Floating point number
 char myLetter = 'D';       // Character

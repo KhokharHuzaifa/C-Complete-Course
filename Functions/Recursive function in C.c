@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     // Recursion is the technique of making a function call itself. This technique provides a way to break complicated 
-    // problems do into simple problems which are easier to solve.
+    // problems dow into simple problems which are easier to solve.
     // Example
 int sum(int k);
 

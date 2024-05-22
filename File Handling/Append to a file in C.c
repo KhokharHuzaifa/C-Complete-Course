@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    // If you wai to add content to a file without deleting the old content, you can use the a mode.
+    // If you wait to add content to a file without deleting the old content, you can use the a mode.
 
 // The a mode appends content at the end of the file
 // Example

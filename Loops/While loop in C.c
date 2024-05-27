@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     // The while loop loops through a block of code as long as a specified condition is true
-    // Synt
+    // Synta
     while (condition) {
     // code block to be executed
     }

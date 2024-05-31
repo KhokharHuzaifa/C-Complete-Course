@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include <string.h>
-// you must ine the <string.h> header file in your program
+// you must ince the <string.h> header file in your program
 int main(){
 // To concatenate (combine) two strings, you can use the strcat() functionchar alphabet[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 char str1[20] = "Hello ";

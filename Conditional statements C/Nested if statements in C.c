@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int mark;
+    int marks;
     printf("Enter your Marks: ");
     scanf("%d",&marks);
     if(marks>=80 && marks<=100){

@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-//  Inforn can be passed to functions as a parameter. Parameters act as variables inside the function.
+//  Inform can be passed to functions as a parameter. Parameters act as variables inside the function.
 // Parameters are specified after the function name, inside the parentheses. You can add as many parameters 
 // as you want, just separate them with a comma
 // Syntax

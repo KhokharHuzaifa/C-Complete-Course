@@ -3,7 +3,7 @@ int main(){
     // Use the else statement to specify a block of code to be executed if the condition is false.
     // Syntax :
     if (condition) {
-    // bloc of code to be executed if the condition is true
+    // block of code to be executed if the condition is true
     } else {
     // block of code to be executed if the condition is false
     }

@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    // To create a e, you can use the w mode inside the fopen() function
+    // To create a fe, you can use the w mode inside the fopen() function
     // Example
 FILE *fptr;
 // Create a file

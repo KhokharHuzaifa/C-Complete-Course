@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-//    To a the structure, you must create a variable of it.
+//    To ac the structure, you must create a variable of it.
 
 // Use the struct keyword inside the main() method, followed by the name of the structure and then the name of the 
 // structure variable:

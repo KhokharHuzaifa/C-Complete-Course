@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     // Booleans represent values that are either true or false
-    // 1 (or any o number that is not 0) represents true
+    // 1 (or any ot number that is not 0) represents true
     // 0 represents false
     bool isProgrammingFun = true;
     bool isFishTasty = false;

@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
 
-// Example 1 Cr a function
+// Example 1 Cre a function
 void myFunction() {
   printf("I just got executed!");
 }

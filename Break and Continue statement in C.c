@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     // Break
-    // You h already seen the break statement used in an earlier chapter of this tutorial. It was used to "jump out" 
+    // You ha already seen the break statement used in an earlier chapter of this tutorial. It was used to "jump out" 
     // of a switch statement.
     // The break statement can also be used to jump out of a loop.
 

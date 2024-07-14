@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include <string.h>
-// you must include the <string.h> header file in your pro
+// you must include the <string.h> header file in your prog
 int main(){
 // To compare two strings, you can use the strcmp() functionchar alphabet[] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 // It returns 0 if the two strings are equal

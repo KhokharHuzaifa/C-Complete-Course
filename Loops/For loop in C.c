@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    // When you  exactly how many times you want to loop through a block of code, use the for loop 
+    // When you k exactly how many times you want to loop through a block of code, use the for loop 
     // instead of a while loop
     // Syntax
     for (expression 1; expression 2; expression 3) {

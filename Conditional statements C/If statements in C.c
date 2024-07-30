@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    // Use "if" to sp a block of code to be executed, if a specified condition is true
+    // Use "if" to spe a block of code to be executed, if a specified condition is true
     // Syntax :
     if (condition) {
     // block of code to be executed if the condition is true

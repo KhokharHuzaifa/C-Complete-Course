@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include <string.h>
-// you must inclu the <string.h> header file in your program
+// you must include the <string.h> header file in your program
 int main(){
 // To copy the value of one string to another, you can use the strcpy() functionchar str1[20] = "Hello ";
 char str1[20] = "Hello World!";

@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    // Inside the function, you can add as many parameters as you want
+    // Inside the function, you can add as many parameters as you w
     // Example
 void myFunction(char name[], int age) {
   printf("Hello %s. You are %d years old.\n", name, age);

@@ -1,7 +1,7 @@
 #include<stdio.h>
 int main(){
     // Set Array 
-    // Another common way to create arrays, is to specify the size of the array, and add elements later:
+    // Another commo way to create arrays, is to specify the size of the array, and add elements later:
     // Example Size
     // Declare an array of four integers:
     int myNumbers[4];
